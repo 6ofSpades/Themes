@@ -33,20 +33,20 @@
             "#000000"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#00FF6AFF",
-            "#00FF6AFF"
+            "#008CFFFF",
+            "#008CFFFF"
         ],
         "BACKGROUND_ACCENT": [
-            "#00FF6AFF",
-            "#00FF6AFF"
+            "#008CFFFF",
+            "#008CFFFF"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#00FF6AFF",
-            "#00FF6AFF"
+            "#008CFFFF",
+            "#008CFFFF"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#00FF6AFF",
-            "#00FF6AFF"
+            "#008CFFFF",
+            "#008CFFFF"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
             "#008CFFFF",
