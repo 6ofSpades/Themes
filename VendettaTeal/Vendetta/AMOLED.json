@@ -13,48 +13,48 @@
             "#9d0006"
         ],
         "BACKGROUND_FLOATING": [
-            "#200000FF",
-            "#200000FF"
+            "#00FF6AFF",
+            "#00FF6AFF"
         ],
         "BACKGROUND_MENTIONED": [
-            "#3800005A",
-            "#3800005A"
+            "#00FF6AFF",
+            "#00FF6AFF"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
-            "#3800005A",
-            "#3800005A"
+            "#00FF6AFF",
+            "#00FF6AFF"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#3800005A",
-            "#3800005A"
+            "#00FF6AFF",
+            "#00FF6AFF"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#000000",
             "#000000"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#070606FF",
-            "#070606FF"
+            "#00FF6AFF",
+            "#00FF6AFF"
         ],
         "BACKGROUND_ACCENT": [
-            "#770F0FFF",
-            "#770F0FFF"
+            "#00FF6AFF",
+            "#00FF6AFF"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#D215159A",
-            "#D215159A"
+            "#00FF6AFF",
+            "#00FF6AFF"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#6A0000FF",
-            "#6A0000FF"
+            "#00FF6AFF",
+            "#00FF6AFF"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#3800005A",
-            "#3800005A"
+            "#00FF6AFF",
+            "#00FF6AFF"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#D215156A",
-            "#D215156A"
+            "#00FF6AFF",
+            "#00FF6AFF"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#000000",
@@ -65,24 +65,24 @@
             "#000000"
         ],
         "BACKGROUND_SECONDARY": [
-            "#200000FF",
-            "#200000FF"
+            "#00FF6AFF",
+            "#00FF6AFF"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#200000FF",
-            "#200000FF"
+            "#00FF6AFF",
+            "#00FF6AFF"
         ],
         "BACKGROUND_TERTIARY": [
-            "#070606FF",
-            "#070606FF"
+            "#00FF6AFF",
+            "#00FF6AFF"
         ],
         "CHANNELS_DEFAULT": [
             "#7B6161FF",
             "#7B6161FF"			
         ],
         "CHANNEL_ICON": [
-            "#6A0000FF",
-            "#6A0000FF"
+            "#00FF6AFF",
+            "#00FF6AFF"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER":  [
             "#F09C9CFF",
