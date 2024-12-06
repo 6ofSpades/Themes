@@ -17,44 +17,44 @@
             "#00000080"
         ],
         "BACKGROUND_MENTIONED": [
-            "#008CFFFF",
-            "#008CFFFF"
+            "#3800005A",
+            "#3800005A"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
-            "#00FF6AFF",
-            "#00FF6AFF"
+            "#3800005A",
+            "#3800005A"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#00FF6AFF",
-            "#00FF6AFF"
+            "#3800005A",
+            "#3800005A"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#000000",
             "#000000"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#008CFFFF",
-            "#008CFFFF"
+            "#070606FF",
+            "#070606FF"
         ],
         "BACKGROUND_ACCENT": [
-            "#008CFFFF",
-            "#008CFFFF"
+            "#770F0FFF",
+            "#770F0FFF"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#008CFFFF",
-            "#008CFFFF"
+            "#D215159A",
+            "#D215159A"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#008CFFFF",
-            "#008CFFFF"
+            "#6A0000FF",
+            "#6A0000FF"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#008CFFFF",
-            "#008CFFFF"
+            "#3800005A",
+            "#3800005A"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#008CFFFF",
-            "#008CFFFF"
+            "#D215156A",
+            "#D215156A"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#000000",
@@ -65,24 +65,24 @@
             "#000000"
         ],
         "BACKGROUND_SECONDARY": [
-            "#008CFFFF",
-            "#008CFFFF"
+            "#200000FF",
+            "#200000FF"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#008CFFFF",
-            "#008CFFFF"
+            "#200000FF",
+            "#200000FF"
         ],
         "BACKGROUND_TERTIARY": [
-            "#008CFFFF",
-            "#008CFFFF"
+            "#070606FF",
+            "#070606FF"
         ],
         "CHANNELS_DEFAULT": [
             "#7B6161FF",
             "#7B6161FF"			
         ],
         "CHANNEL_ICON": [
-            "#008CFFFF",
-            "#008CFFFF"
+            "#6A0000FF",
+            "#6A0000FF"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER":  [
             "#F09C9CFF",
