@@ -13,8 +13,8 @@
             "#9d0006"
         ],
         "BACKGROUND_FLOATING": [
-            "#FF009DFF",
-            "#FF009DFF"
+            "#00000080",
+            "#00000080"
         ],
         "BACKGROUND_MENTIONED": [
             "#008CFFFF",
