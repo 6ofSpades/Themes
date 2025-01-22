@@ -76,6 +76,12 @@
           "#000000",
           "#000000"
       ],
+    
+      "BG_BASE_PRIMARY": [ "#00FF00FF", "#00FF00FF" ],
+      "BG_BASE_SECONDARY": [ "#EEFF00FF", "#EEFF00FF" ],
+      "BG_BASE_TERTIARY": [ "#0000FFFF", "#0000FFFF" ],
+      "EMBED_BACKGROUND": [ "#FF00D4FF", "#FF00D4FF" ],
+    
       "CHANNELS_DEFAULT": [
           "#7B6161FF",
           "#7B6161FF"			
